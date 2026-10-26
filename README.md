@@ -8,4 +8,4 @@ Enhancing Kokoro text-to-speech quality through:
 - Custom pronunciation correction
 - Fine-tuning (planned; dataset needed)
 
-**Tech Stack:** Python, Kokoro, PyTorch, SoundFile, Num2Words.
+
